@@ -7,7 +7,7 @@ export const typeDefs = `#graphql
         lastname: String!,
         email: String!,
         gender: String!,
-        birthdate: String
+        birthdate: String!
 
     }
     type Query {

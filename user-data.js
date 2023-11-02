@@ -6,7 +6,7 @@ let users = [
                 "lastname" : "Derick",
                 "email" : "derick@gmail.com",
                 "gender" : "male",
-                "birthdate" : "08-12-2023"
+                "birthdate" : "2023-12-08"
             },
             {
                 "id": '2',
@@ -14,7 +14,7 @@ let users = [
                 "lastname" : "Shalom",
                 "email" : "shalom@gmail.com",
                 "gender" : "female",
-                "birthdate" : "08-12-2023"
+                "birthdate" : "2023-12-08"
             },
             {
                 "id": '3',
@@ -22,7 +22,7 @@ let users = [
                 "lastname" : "Didier",
                 "email" : "didier@gmail.com",
                 "gender" : "male",
-                "birthdate" : "08-06-2021"
+                "birthdate" : "2021-06-08"
             },
             {
                 "id": '4',
@@ -30,7 +30,7 @@ let users = [
                 "lastname" : "Lucia",
                 "email" : "lucia@gmail.com",
                 "gender" : "female",
-                "birthdate" : "08-10-2020"
+                "birthdate" : "2020-10-08"
             },
             {
                 "id": '5',
@@ -38,7 +38,7 @@ let users = [
                 "lastname" : "Destiny",
                 "email" : "destiny@gmail.com",
                 "gender" : "female",
-                "birthdate" : "08-02-2019"
+                "birthdate" : "2019-02-08"
             }
         ]
 
